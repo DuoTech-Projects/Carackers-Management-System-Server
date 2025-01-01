@@ -1,0 +1,62 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "role": "Project Manager",
+      "clients": [
+        {
+          "name": "sathosh",
+          "project": "crackers",
+          "contact": "sam@gmail.com",
+          "client_id": 1735647717851
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sarah Johnson",
+      "role": "Software Engineer",
+      "clients": [
+        {
+          "name": "santhosh",
+          "project": "crackers",
+          "contact": "sam@gmail.com",
+          "client_id": 1735707764556
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Michael Lee",
+      "role": "UI/UX Designer",
+      "clients": [
+        {
+          "client_id": 104,
+          "name": "Creative Studios",
+          "project": "Brand Revamp",
+          "contact": "tom.wilson@creativestudios.com"
+        },
+        {
+          "client_id": 105,
+          "name": "Fashion Forward",
+          "project": "E-commerce Design",
+          "contact": "anna.taylor@fashionforward.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "role": "Data Analyst",
+      "clients": [
+        {
+          "client_id": 106,
+          "name": "HealthTrack",
+          "project": "Data Dashboard",
+          "contact": "paul.adams@healthtrack.com"
+        }
+      ]
+    }
+  ]
+}
